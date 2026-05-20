@@ -78,7 +78,7 @@ Live App: **[Vyn-Notes](https://vyn-notes.streamlit.app/)**
 ## 1. Clone Repository
 
 ```bash
-git clone https://github.com/lib-kishore/Vyn-Notes.git
+git clone https://github.com/MKishoreDev/Vyn-Notes.git
 cd Vyn-Notes
 ```
 
